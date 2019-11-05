@@ -29,6 +29,15 @@
               4. 이 책에서 다루는 데이터와 주요 용어
 
 ***
+### 5. 한국어 임베딩 (저자 이기창) 스터디 part5 발표자료
+       발표주제 : Seq2Seq to BERT
+       내용 : 1. Seq2Seq
+              2. Seq2Seq with Attention
+              3. Transformer
+              4. BERT
+       
+
+***
 
 ### 추후예정 : Bert
 
